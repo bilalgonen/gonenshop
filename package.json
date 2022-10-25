@@ -2,6 +2,9 @@
   "name": "gonenshop",
   "version": "1.0.0",
   "description": "Gonen Shop",
+  "engines": {
+    "node": "16.16.0"
+  },
   "main": "server.js",
   "type": "module",
   "scripts": {
